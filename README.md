@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Lakshay Gupta and I'm a sophomore at the University of Texas at Austin studying Electrical and Computer Engineering Honors!
+My name is Lakshay Gupta and I'm a junior at the University of Texas at Austin studying Electrical and Computer Engineering!
 
 I'm an active member of multiple organizations on campus such as [@lhr-solar](https://github.com/lhr-solar) and [@ut-ras](https://github.com/ut-ras)
 
